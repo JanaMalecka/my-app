@@ -1,0 +1,22 @@
+.btn {
+  background-color: rgb(255, 0, 179);
+  color: black;
+  border-radius: 5px;
+  border: none;
+  margin: 1rem;
+  width: 5rem;
+  height: 3rem;
+}
+.item {
+  display: flex;
+  background: #407088;
+  color: white;
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  justify-content: space-between;
+}
+.girls {
+  background: #ffcbcb;
+}
